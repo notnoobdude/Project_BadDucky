@@ -1,0 +1,1 @@
+Opens notepad, displays some text on the screen, opens a command prompt, makes the prompt less noticeable, then runs ipconfig and exports the results to a text file on your desktop. Nothing nefarious, but just a proof of concept. Testing purposes hehe
